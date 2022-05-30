@@ -1,0 +1,19 @@
+.box-dashboard{
+    width: 100%;
+    padding: 0;
+
+}
+
+.sidebar-dashboard {
+    background-color: #0D28A6;
+    flex: 5%;
+}
+
+.content-dashboard {
+    background-color: #F4F5F7;
+    flex: 95%;
+}
+
+.sub-menu-dashboard {
+    background-color: white;
+}

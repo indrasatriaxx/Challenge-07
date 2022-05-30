@@ -1,0 +1,94 @@
+.container-pembayaran {
+    max-width: 1137px !important;
+    padding: 0 !important;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-pembayaran {
+    width: 100%;
+    position: relative;
+    top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-pembayaran-kiri {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 182px;
+    align-items: center;
+}
+
+.menu-pembayaran-kiri h6 {
+    padding-top: 4px;
+}
+
+.menu-pembayaran-kanan {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 360px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-pembayaran-kanan p{
+    padding: 12px 4px 0px 4px;
+}
+
+.menu-pembayaran-kanan img {
+    padding: 0px 4px 0px 4px;
+}
+
+.detail-pesanan {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.detail-pesanan p ,h6{
+    margin-bottom: 2px !important;
+}
+
+.detail-value {
+    font-weight: 50;
+}
+
+.tiket-pembayaran {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+    padding-left: 16px;
+}
+
+.tiket-pembayaran h6{
+    font-weight: bolder;
+}
+
+.tiket-pembayaran p {
+    margin: 0px !important;
+}
+
+.invoice {
+    margin-top: 40px;
+    max-width: 600px;
+    width: 100%;
+}
+.invoice img{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.invoice h6{
+    font-weight: bolder;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.invoice p {
+    font-weight: 100;
+    margin-top: 24px;
+    text-align: center;
+}

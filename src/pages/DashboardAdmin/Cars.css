@@ -1,0 +1,19 @@
+.box-cars{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-cars {
+    background-color: #0D28A6;
+    flex: 5%;
+}
+
+.content-cars {
+    background-color: #F4F5F7;
+    flex: 95%;
+}
+
+.sub-menu-cars {
+    background-color: white;
+}
